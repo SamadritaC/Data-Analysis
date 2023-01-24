@@ -1,0 +1,11 @@
+Rank	Title	Distributor	Revenue £m	Year
+1	Avengers: Infinity War	Walt Disney	66.7	2013
+2	Mamma Mia: Here We Go Again!	Universal	60.7	2013
+3	Incredibles 2	Walt Disney	52.2	2013
+4	Black Panther	Walt Disney	47.8	2013
+5	Bohemian Rhapsody	20th Century Fox	44.7	2013
+6	Jurassic World: Fallen Kingdom	Universal	38.7	2013
+7	Peter Rabbit	Sony	38	2013
+8	The Greatest Showman	20th Century Fox	37.8	2013
+9	Fantastic Beasts: The Crimes Of Grindelwald	Warner Bros	31.3	2013
+10	Deadpool 2	20th Century Fox	30.6	2013
